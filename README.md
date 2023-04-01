@@ -5,7 +5,7 @@ Projekt wykorzystuje różne metody algorytmów klasteryzacji do grupowania spó
 Dane zostały pobrane z strony internetowej https://simfin.com/ z zakładki "Data Finder" w roku 2019. Do opisania cech spółek wykorzystano wybrane wskaźniki finansowe służące do oceny rentowności, wyceny oraz zadłużenia.
 # Metody
 
-W pracy opisano metody hierarchiczne, partycyjne oraz gęstościowe klasteryzacji. Poddano omówieniu wpływ parametrów algorytmu na wynik. Funkcja podobieństwa obiektów została zdefiniowana za pomocą metryk. Wybrane wskaźniki posłużyły do oceny jakości grupowania.
+W projekcie wykorzystano metody hierarchiczne, partycyjne oraz gęstościowe klasteryzacji. Praca przedstawia wpływ parametrów algorytmu na wynik. Funkcja podobieństwa obiektów została zdefiniowana za pomocą metryk. Wybrane wskaźniki posłużyły do oceny jakości grupowania.
 # Narzędzia
 
 Do implementacji klasteryzacji wykorzystano menager pakietów Anaconda Navigator z graficznym interfejsem oraz interaktywne środowisko programistyczne Jupyter Notebook. Biblioteki zawierające algorytmy klasteryzacji, które zostały zastosowane to PyClustering i Scikit-Learn. Wykorzystano język programistyczny Python 3.6.9.
@@ -18,7 +18,7 @@ Do implementacji klasteryzacji spółek z czterema wskaźnikami wybrano metodę 
 
 Projekt można uruchomić poprzez otwarcie notebooków .ipynb w środowisku Jupyter i wywołanie zawartych w nim komórek.
 
-**Uwaga:** Do prawidłowego funkcjonowania należy wprowadzić poprawną scieżkę do pliku z danymi .xslx.
+**Uwaga:** Do prawidłowego funkcjonowania należy wprowadzić poprawną scieżkę do pliku z danymi .xslx w pierwszej komórce notatnika odpowiadającej za wczytanie danych.
 # Licencja
 
 Klasteryzacja spółek giełdowych udostępniana jest na licencji MIT. Szczegóły znajdują się w pliku LICENSE.
