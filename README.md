@@ -2,7 +2,7 @@
 Projekt wykorzystuje różne metody algorytmów klasteryzacji do grupowania spółek giełdowych na podstawie dwóch i czterech wskaźników finansowych. Celem było uzyskanie klastrów charakteryzujących się spójnością wewnątrz klastrową, separacyjnością między innymi klastrami oraz możliwością wykorzystania ich w analizie fundamentalnej.
 # Dane
 
-Dane zostały pobrane z strony internetowej https://simfin.com/ z zakładki "Data Finder" w roku 2019. Do opisania cech spółek wykorzystano wybrane wskaźniki finansowe służące do oceny rentowności, wyceny oraz zadłużenia.
+Dane zostały pobrane z strony internetowej https://simfin.com/ z zakładki "Data Finder" w roku 2020.Do opisania cech spółek wykorzystano wybrane wskaźniki finansowe służące do oceny rentowności, wyceny oraz zadłużenia.
 # Metody
 
 W projekcie wykorzystano metody hierarchiczne, partycyjne oraz gęstościowe klasteryzacji. Praca przedstawia wpływ parametrów algorytmu na wynik. Funkcja podobieństwa obiektów została zdefiniowana za pomocą metryk. Wybrane wskaźniki posłużyły do oceny jakości grupowania.
