@@ -1,3 +1,4 @@
+# Klasteryzacja spółek giełdowych 
 Projekt wykorzystuje różne metody algorytmów klasteryzacji do grupowania spółek giełdowych na podstawie dwóch i czterech wskaźników finansowych. Celem było uzyskanie klastrów charakteryzujących się spójnością wewnątrz klastrową, separacyjnością między innymi klastrami oraz możliwością wykorzystania ich w analizie fundamentalnej.
 # Dane
 
